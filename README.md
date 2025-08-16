@@ -9,3 +9,7 @@ The goal is to demonstrate how to handle raw text data, run it through a model/s
 ---
 
 ## Project Structure
+.
+├── model.py # Main Python script
+├── input.txt # Sample input data (Shakespeare text)
+└── README.md # Project documentation
